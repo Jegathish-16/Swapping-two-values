@@ -30,7 +30,7 @@ b=c
 print("Swapped values are:",a,b)
 ~~~
 ## OUTPUT:
-![python swapping values](https://user-images.githubusercontent.com/93696046/143670492-1f101afb-73c4-4341-a592-6da1df3ef85d.jpg)
+![output 1](swapp.jpg)
 
 
 ## RESULT:
